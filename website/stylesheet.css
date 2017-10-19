@@ -60,6 +60,7 @@ h2 {
 #headline h1 {
         color:#FFFFFF;
         margin-top:50px
+        text-align:left;
 }
 
 #headline h2 {
@@ -72,4 +73,19 @@ h2 {
         margin:30px auto 0;
         position:relative;
         text-align: center;
+}
+
+#roadmap h2 {
+        margin:5px auto 0px;
+        line-height:2em;
+        left:40;
+        top:10;
+        position:relative;
+        text-align:left; 
+
+}
+
+#roadmap ul {
+        left:60;
+        position:relative;
 }
