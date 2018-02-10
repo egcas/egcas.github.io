@@ -89,3 +89,11 @@ h2 {
         left:60;
         position:relative;
 }
+
+#footer {
+        padding:40px 0 0;
+        position:relative;
+        background:#222222;
+        color:#FFFFFF;
+        font-size:10px;
+}
