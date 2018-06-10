@@ -1,0 +1,5 @@
+This file lists where the icons originally come from:
+=========================================================================================
+file                                    origin         License
+-----------------------------------------------------------------------------------------
+pulley.png                          openclipart.org    Creative Commons Zero 1.0 License

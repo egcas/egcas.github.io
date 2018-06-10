@@ -44,6 +44,15 @@ h2 {
         font-size:18px;
 }
 
+.versions_class {
+        position: relative;
+        top: 0px;
+        left: 60px;
+        line-height:38px;
+        margin:40px auto 0;
+        font-size:14px;
+}
+
 .logo {
         position: absolute;
         top: 10px;
